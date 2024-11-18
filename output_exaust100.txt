@@ -1,0 +1,3 @@
+Maior clique -> 2 5 7 9 16 19 25 26 33 40 50 70 94 99 100 
+Tamanho da maior clique -> 15
+Tempo de execução -> 9.895419 segundos
